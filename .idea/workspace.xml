@@ -36,6 +36,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -230,6 +242,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Revert &quot;added models&quot;&#10;&#10;This reverts commit e055be14e43adca77c2ef86e58836f3f983c7e70." />
+    <MESSAGE value="add models" />
     <MESSAGE value="added models" />
     <option name="LAST_COMMIT_MESSAGE" value="added models" />
   </component>
